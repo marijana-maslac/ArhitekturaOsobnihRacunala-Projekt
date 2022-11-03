@@ -1,0 +1,7 @@
+﻿disk 1:
+	- mehanički 
+	- Toshiba
+	- P300
+	- 1TB
+	- SATA 6GB/S
+	- 7200 okretaja po minuti

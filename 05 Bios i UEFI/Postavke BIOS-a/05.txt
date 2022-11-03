@@ -1,0 +1,28 @@
+﻿
+05 - izbornik Boot 
+	- Boot option Priorities
+		- ovaj odjeljak prikazuje dostupne uređaje u sustavu za konfiguriranje
+		 postavki pokretanja i prioritet pokretanja
+		- od ponuđenih sustava biramo željeni te ga stavljamo na BOOT OPTION #1
+	- Fast Boot	
+		- brzo pokretanje smanjuje vrijeme pokretanja računala
+		- u ovom načinu pokretanja, postoji mogućnost da se neće uspješno pokrenuti
+		sustav s USB uređaja 
+	- Boot From Onboard LAN
+		- alat za pokretanje sustava pomožu ugrađenog LAN-a
+	- Setup Promp Timeout
+		- alat koji označava vrijeme prikaza tipki za ulazak u postavljnanje 
+		postavki UEFI-a pri paljenju računala prije pokretanja operativnog sustava
+		- omogućava konfiguriranje broj sekundi za UEFI postavke
+	- Bootup Num-Lock
+		- alat koji omogućava hoće li Num Lock biti uključen ili isključen pri
+		pokretanju sustava
+	- Boot Beep
+		- alat koji omogućava hoće li zvučni signal biti uključen ili isključen
+		pri pokretanju sustava
+	- Full Screen Logo 
+		- alat koji omogućava prikat logotipa na cijelom ekranu za pokretanje ili 
+		onemogućavanje ako želimo prikaz uobičajenih POST poruka
+	- CSM (Compatibility Support Module)
+		- alat koji omogućava pokretanje modula za podršku kompatibilnosti sa starim
+		softverima 

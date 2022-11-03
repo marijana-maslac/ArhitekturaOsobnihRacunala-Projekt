@@ -1,0 +1,27 @@
+﻿
+02 - izbornik Alati (Tool)
+	- RGB LED
+		- alati za namještanje željene boje za osvjetljenje
+	- EASY RAID Installer
+		- alat pomoću kojeg kopiramo RAID driver sa CD-a na USB uređaj 
+		te nakon kopiranja programa možemo instalirati operativni sustav u 
+		RAID načinu nakon što promijenimo način rada sa SATA na RAID 
+	
+	- Easy Driver Installer
+		- u slučaju da korisnikovo računalo ne podržava optički disk CD, 
+		UEFI sadrži alat za instaliranje LAN upravljačkog programa na sustav 
+		pomoću USB-a te ono preuzima i instalira ostale potrebne upravljačke 
+		programe automatski
+
+	- UEFI Update Utility
+		- Instant Flash
+			- alat koji služi za ažuriranje korisničkovog UEFI-a pomoću USB 
+			uređaja	koji sadrži UEFI datoteke za ažuriranje
+		- Internet Flash - DHCP (Auto IP), Auto
+			- alat koji preuzima i ažurira najnoviju veziju UEFI-a sa servera
+			ASRock, prvo se postavlja mrežna konfiguracija pa se upotrebljava 
+			Internet Flash
+		- Network Configuration
+			- alat koji se koristi za konfiguriranje postavki internetske veze,
+			ponuđeno nam je omogućavanje zvučnih efekata u setup programu te 
+			odabitemo server za skidanje datoteka za ažuriranje UEFI-a

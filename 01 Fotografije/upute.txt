@@ -1,0 +1,20 @@
+
+Potrebno je priložiti sljedeće fotografije:
+
+01 - kućište računala sa svim periferijama
+
+02 - kućište:
+03	 - prednja strana
+04	 - bočna strana, zatvoreno
+05	 - stražnja strana - s priključenim kabelima
+06	 - stražnja strana - sve odspojeno
+
+07 - cijelo kućište iznutra
+08 - matična ploča (ne treba ništa odspajati)
+09 - oznaka matične ploče
+
+Napomene:
+- veličina cijelog direktorija s projektom ne smije biti veća od 50 MB
+- slike trebaju biti u jpeg formatu
+- slike ne trebaju biti veće od 1-2 MB
+- slike trebaju biti ispravne orijentacije

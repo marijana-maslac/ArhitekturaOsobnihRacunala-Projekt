@@ -1,0 +1,16 @@
+﻿
+03 - izbornik H/W Monitor
+	- omogućuje informacije o temperaturi procesora, temperaturi matične ploće, 
+	o brzini ventilatora i o naponima 
+	
+	- CPU Fan 1, 2, 3 Setting
+		- odabire se način ventilatora za CPU Fan 1(2,3) ili način "Prilagodi"
+		kako bi postavili 5 temperatura procesora i brzina ventilatora 
+		za svaku temperaturu
+		- CPU FAN 1(2,3) Temp Source - odabire se izvor temperature ventilatora
+		za CPU ventilator (na primjer monitor M/B) 
+
+	- Zaštita od prekomjerne temperature
+		- Ako je omogućena zaštita od prekomjerne, previsoke, temperature,
+		sustav se automatski isključuje u pri pregrijavanju matične ploče
+

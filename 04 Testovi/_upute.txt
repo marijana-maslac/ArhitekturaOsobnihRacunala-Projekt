@@ -1,0 +1,7 @@
+
+Direktorij treba sadržavati sljedeæe datoteke:
+
+hdtune_01.png 	- HDTune - snimka zaslona kartice Benchmark (u alatnoj traci postoji botun "Save screenshot") 
+hdtune_02.png 	- HDTune - snimka zaslona kartice Info
+hdtune_03.png 	- HDTune - snimka zaslona kartice Error Scan
+cpuz_01.txt 	- CPU-Z  - datoteka sa izvještajem u tekstualnom obliku (About - Save report)

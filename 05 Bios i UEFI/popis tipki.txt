@@ -1,0 +1,9 @@
+Tipka za ulazak u BIOS: F2 ili DEL
+
+Tipka za brzi izbornik (boot): F11
+
+Ostale tipke dostupne na boot ekranu i njihova funkcija:
+	- F11 za Boot Menu 
+	- F6 za Instant Flash
+	- F2 ili DEL za UEFI Setup
+	- Tab za Switch Screen

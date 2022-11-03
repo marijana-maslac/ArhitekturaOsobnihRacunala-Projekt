@@ -1,0 +1,12 @@
+﻿
+Proizvođač i model grafičke kartice:  AMD RADEON RX 560
+
+Kodno ime grafičkog procesora:	Polaris 21 XT	
+
+Radni takt grafičkog procesora:  1175 MHz
+
+Kapacitet memorije:  4GB
+
+Tip sabirnice: 	PCI-E 3.0 X16
+
+

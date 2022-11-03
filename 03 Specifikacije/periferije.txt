@@ -1,0 +1,38 @@
+﻿
+Uz svaku periferiju navesti naziv proizvođača, model i osnovne karakteristike:
+
+Monitor - AOC IPS I2280SWD
+
+	- LCD ekran dijagonale 21.5"
+
+	- radna rezolucija 1920x 1080
+
+	- omjer stranica 20M:1
+
+
+Tipkovnica - E-BLUE COBRA II EKM705
+
+	- standardna QUERTY tipkovnica s izdvojenim numeričkim dijelom
+
+	- crna boja s LED osvjetljenjem
+
+	- velika tipka <Enter>
+
+	- dodatne i nestandardne tipke:
+
+		- tipka <fn> postavljena na mjesto između Alt Gr i Ctrl na desnoj strani
+
+
+Miš - E-BLUE COBRA II 1600DPI 
+
+	- senzor optički 
+
+	- rezolucija 1600 dpi
+
+	- 6 tipki:
+		- lijeva standardna tipka 
+		- desna standatdna tipka
+		- srednja standardna tipka 
+		- tipka između lijeve i desne standardne tipke za brzinu pokreta mišem
+		- na lijevoj strani, gornja tipka za ići naprijed
+		- na lijevoj strani, donja tipka za ići natrag

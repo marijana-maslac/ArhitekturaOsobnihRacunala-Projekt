@@ -1,0 +1,59 @@
+
+  ASRock BIOS Upgrade Instruction
+
+
+    There are two methods to update the BIOS using Instant Flash.
+
+
+      Method 1:
+
+ 1. Please extract the zip file after downloading the BIOS rom file from
+    ASRock website.
+ 2. Save the BIOS files on a FAT32 formatted USB disk.
+ 3. Press [F2] during POST to get into BIOS setup menu.
+ 4. Select the Instant Flash utility under [Tool] menu to execute it.
+ 5. ASRock Instant Flash will automatically detect all devices and only
+    list those BIOS versions which are suitable for your motherboard.
+ 6. Select the suitable BIOS version and click “Yes” to flash the BIOS.
+ 7. The system will start to flash the BIOS.
+ 8. Once the BIOS is flashed, it’ll show “Programing success, Press
+    Enter to reboot system”. Please click “OK” to reboot the system.
+ 9. After the system restarts, press [F2] to enter the BIOS setup
+    utility during boot up. In Exit menu, please select "Load Default
+    Settings" and press [Enter] to continue. Select "Exit Saving
+    Changes" and press [Enter] to exit the BIOS setup utility. Now, the
+    system is booting up with new BIOS.
+
+
+      Method 2:
+
+ 1. Please extract the zip file after downloading the BIOS rom file from
+    ASRock website.
+ 2. Save the BIOS files on a FAT32 formatted USB disk.
+ 3. Press [F6] when you see this (or similar) page.
+ 4. Select the suitable BIOS version and flash.
+ 5. Select the suitable BIOS version and click “Yes” to flash the BIOS.
+ 6. The system will start to flash the BIOS.
+ 7. Once the BIOS is flashed, it’ll show “Programing success, Press
+    Enter to reboot system”. Please click “OK” to reboot the system.
+ 8. After the system restarts, press [F2] to enter the BIOS setup
+    utility during boot up. In Exit menu, please select "Load Default
+    Settings" and press [Enter] to continue. Select "Exit Saving
+    Changes" and press [Enter] to exit the BIOS setup utility. Now, the
+    system is booting up with new BIOS.
+
+
+    Notice
+
+The Flash Memory Writer utility can not suitable for all ASRock
+motherboards. Please use the Flash utility which is included in each
+BIOS file to update its BIOS. Also ASRock motherboard *MUST* use
+ASRock's Flash utility to update BIOS, those uncertified BIOS flashing
+tools will cause motherboard damage.
+If you encounter problems while updating the new BIOS, *DO NOT* turn off
+your system since this corrupt BIOS might cause your system failed to
+boot up. Just repeat the process, and if the problem still persists,
+update the original BIOS file. If the Flash Memory Writer utility was
+not able to successfully update a complete BIOS file, your system may
+not be able to boot up. If this happens, your system will need service.
+

@@ -1,0 +1,3 @@
+Ovdje treba ubaciti fotografiju početnog ekrana ("post" ekran kod paljenja).
+u slučaju da je na ekranu prikazan logo proizvođača i da se ne vide tehnički detalji,
+potrebno je isključiti prikaz loga u BIOS-u i priložiti s prikazom postupka provjere hardvera.

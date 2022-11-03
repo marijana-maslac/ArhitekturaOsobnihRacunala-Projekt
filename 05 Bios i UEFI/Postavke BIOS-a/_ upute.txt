@@ -1,0 +1,11 @@
+Ovdje je potrebnu ubaciti 5 fotografija različitih ekrana iz postavki BIOS-a ili UEFI-ja (numerirane od 01 do xx).
+Fotografirane postavke treba dokumentirati. Uz svaku stavku treba dodati kratko objašnjenje (ne samo prijevod).
+Direktorij treba sadržavati datoteke sljedećih naziva:
+
+01.jpg
+01.txt
+
+02.jpg
+02.txt
+
+...

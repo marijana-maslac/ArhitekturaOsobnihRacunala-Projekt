@@ -1,0 +1,32 @@
+﻿
+Proizvođač: AMD
+
+Model: Ryzen 5 
+
+
+Frekvencija: 3200 MHz
+
+Množitelj: 32
+
+Brzina sabirnice: 4 x 8GT/s
+
+
+Cache:
+	-L1 6 x 32 KB
+	-L1 6 x 64 KB
+	-L2 6 x 512 KB
+	-L3 2 x 8192 KB
+	
+
+Tip pakiranja: PGA
+
+Broj pinova: 1331 pin
+
+
+Dimenzije: 1.57" x 1.57" x 0.24"
+
+Broj tranzistora: 4 800 000 000
+
+Napon jezgre: 1.4 V
+
+Podržani setovi instrukcija: MMX(+), SSE, SSE2, SSE3, AMD 64, NX, VMX, AES, AVX, AVX2, FMA3

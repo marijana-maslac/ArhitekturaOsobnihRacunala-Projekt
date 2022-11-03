@@ -1,0 +1,21 @@
+﻿
+04 - izbornik Sigurnost (Security) 
+	- Supervisor Password
+		- pomoću ovog alata, korisnik postavlja ili mijenja lozinku za 
+		administrativni račun, samo admin ima pravo na promjenu postavki
+		u setup programu postavki UEFI-a. 
+		- u slučaju uklanjanja lozinke, prostor za unos ostavlja se prazan 
+		i stisne tipka <Enter>
+	- User Password
+		- pomoću ovog alata, korisnik postavlja ili mijenja lozinku za
+		korisnički račun, korisnici ne mogu promijeniti postavke za postavljanje
+		UEFI-a, također prostor za unos ostavljamo praznim u slučaju brisanja 
+		lozinke te potvrđujemo tipkom <Enter>
+	- Secure Boot, Secure Boot Mode
+		- odabiremo želimo li sigurno pokretanje UEFI-a te postavke koje sami 
+		prilagođavamo
+	- CLear/Install default Secure Boot Keys
+		- Sistem prisiljavamo na brisanje svih varijabli za sigurno pokretanje
+		- promijene se vide nakon ponovnog pokretanja računala
+		- u slučaju da prvi put korisnik koristi sigurno pokretanje, sustav
+		moli korisnika na instalaciju standardnih varijabli sigurnog pokretanja	

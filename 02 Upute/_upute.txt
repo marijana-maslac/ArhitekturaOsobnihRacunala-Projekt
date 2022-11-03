@@ -1,0 +1,3 @@
+Ovdje treba spremiti upute za matičnu ploču (pdf) i link na web stranicu proizvođača na kojoj se nalaze upute. 
+
+* u slučaju da su upute veće od 20 MB, treba staviti samo link.

@@ -1,0 +1,16 @@
+﻿
+Popis komponenti s kojima bi se računalo moglo optimalno nadograditi, s obzirom na namjenu:
+
+(1) SSD Kingston A400
+	- Kingston
+	- R500/W350, 240GB, 7mm, 2.5"
+	- instar-informatika
+	- 293,68 kn
+
+Ukupno uloženo (kn): 293,68kn
+
+Obrazloženje ulaganja i očekivana poboljšanja:
+
+Pošto je računalo novije, trenutno sadrži više nego potrebne komponente pa nema velike potrebe za nadogradnjom.
+Jedino korisno ulaganje bi bilo kupiti SSD za operativni sustav i drivere radi bržeg pokretanja i sigurnosti podataka. 
+Bilo bi bolje da su igrice, OS, programi za fakultet na SSD-u dok ostali podaci na HDD. 

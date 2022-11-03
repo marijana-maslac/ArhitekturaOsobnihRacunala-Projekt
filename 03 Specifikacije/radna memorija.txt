@@ -1,0 +1,14 @@
+﻿
+Tip i vrsta radne memorije: DDR4 RAM
+
+Broj pločica: 2
+
+Pločica 1:
+	- APACER
+	- PANTHER DDR4
+	- 2400 MHZ/8GB
+
+Pločica 2:
+	- APACER
+	- PANTHER DDR4
+	- 2400 MHZ/8GB

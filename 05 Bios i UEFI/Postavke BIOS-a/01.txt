@@ -1,0 +1,11 @@
+﻿
+01 - glavni UEFI izbornik sa stavkama:
+
+	- uobičajene informacije 
+		- verzija UEFI-a, podaci od procesoru, L1,L2,L3 Cache veličine
+
+	- ukupna radna memorija i vrsta 
+		- DDR4 portovi (slobodni A1,B1, zauzeti A2,B2 prema prepourakama proizvođača)
+
+
+Glavni izbornik nema pristup mijenjanju podataka pošto se prikazuju samo općenite informacije određenih komponenti računala.

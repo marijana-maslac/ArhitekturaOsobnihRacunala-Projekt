@@ -1,0 +1,14 @@
+﻿
+- ASRock AB350 Gaming K4
+
+- CPU socket: AM4
+
+	- podrška za procesore iz familije AM4 A-Series APU i Ryzen
+
+- Chipset: AMD Promontory B350
+
+- Priključci za kartice (slotovi):
+
+	- 2 x PCIE 3.0 X16
+
+	- 4 x PCIE 2.0 X1

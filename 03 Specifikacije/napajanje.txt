@@ -1,0 +1,22 @@
+﻿
+Specifikacija: ATX
+Marka: SILVERSTONE
+Model: Strider Essential SST-ST50F-ES230-V2
+Najveća snaga: 500 W
+Vrsta kabela: fiksni
+		
+Popis konektora:
+	- 20 + 4 pin 
+	- 8 (4+4) pin 
+	- 2 x 8 (6+2) pin 
+	- 4 x SATA
+	- 2 x molex
+	- 2 x floppy
+
+Naponske linije i odgovarajuće struje:
+
+	- +3.3V  18A
+	- +5V    17A
+	- +12V   38A
+	- +5VSB  2.5A
+	- -12V   0.3A

@@ -1,0 +1,9 @@
+﻿Ovdje je potrebno ubaciti datoteke s kojima se može nadograditi BIOS (ili UEFI) i link na web stranicu sa koje su skinute.
+Također treba priložiti datoteku s uputama za nadogradnju na engleskom jeziku ili ukratko opisati postupak nadogradnje:
+
+
+
+
+Link web stranice odakle je skinuta datoteka i upute za nadogradnju na engleskom jeziku (Instant Flash): 
+	
+	https://www.asrock.com/mb/amd/fatal1ty%20b450%20gaming%20k4/index.asp#BIOS

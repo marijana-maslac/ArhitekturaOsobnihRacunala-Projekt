@@ -1,0 +1,41 @@
+﻿Popisati sve konektore na ploči (nazivi trebaju biti u razumnoj mjeri prevedeni na hrvatski jezik).
+
+Uz svaki konektor koji se koristi staviti naziv priključenog uređaja ili oznaku (*) ako je iz naziva priključka jasno koji je uređaj spojen.
+
+Konektori na stražnjoj strani:
+	- 2 x USB 2.0
+	- 1 x DisplayPort 1.2
+	- 1 x Lan RJ-45 port
+	- 1 x Line in jack
+	- 1 x konektor za zvučnike (za slušalice)
+	- 1 x konektor za mikrofon (mikrofon na slušalicama)
+	- 1 x VGA port
+	- 1 x DVI port
+	- 1 x audio konektor
+	- 2 x USB 3.1 (jedan se koristi za tipkovnicu, drugi za miš)
+	- 1 x USB 3.1 Type-A 
+	- 1 x USB 3.1 Type-C
+	- 1 x HDMI (koristi se za monitor)
+	- 1 x PS/2 port za tipkovnicu/miš
+
+Interni konektori:
+	- 1 x USB 3.1 konektor
+	- 1 x USB 2.0, USB_3_4
+	- 1 x USB 2.0, USB_1_2
+	- 4 x SATA3 6.0 (1 se koristi za mehanički disk)
+	- 1 x SATA3_A1
+	- 1 x SATA3_A2	
+	- 1 x power LED (*)
+	- 1 x mikrofon
+	- 1 x sigurnosni procesor TPM
+	- 1 x AMD Fan LED (hlađenje)
+	- 1 x CPU Fan konektor
+	- 3 x konektori ventilatora kućišta (1 se koristi*)
+	- 1 x 24 pin konektor ATX napajanja (*)
+	- 1 x 8 pin 12V konektor (napajanje za CPU)
+	- 4 x 288 pin DDR4 slotovi (2 se koriste za RAM)
+	- 1 x sistemski konektor za napajanje računala(*) 
+	- 1 x CMOS jumper za vraćanje postavki BIOS-a 
+	- 1 x COM port 
+	- 1 x RGB LED port
+	
